@@ -196,8 +196,6 @@ encrypt_config = StandardEncryption(
 如果觉得好用，欢迎点个 Star ⭐️！
 **Author**: [AndyRong921](https://www.google.com/search?q=https://github.com/AndyRong921)
 
-```
-
 
 ```
 
