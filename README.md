@@ -50,7 +50,7 @@ SAVE_PATH = "/Users/AndyRONG/Downloads/雨课堂题库_智能版.xlsx"
     在终端或 IDE 中运行 Python 脚本：
 
     ```bash
-    python spider.py
+    python paqu.py
     ```
 
 2.  **登录与进入课程**：
