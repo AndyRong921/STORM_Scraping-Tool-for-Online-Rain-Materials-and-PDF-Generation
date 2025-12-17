@@ -9,7 +9,7 @@ import os
 # ================= 配置区域 =================
 URL = "https://www.yuketang.cn/v2/web/index"
 # 文件保存路径 (请确保这个路径是固定的，这样才能读取到旧文件)
-SAVE_PATH = "/Users/rongzhijin/Downloads/yipaqu.xlsx"  # 示例路径，请修改为你自己的
+SAVE_PATH = "/Users/xxxxxxxxxxx/xxxx.xlsx"  # 示例路径，请修改为你自己的
 # ===========================================
 
 def load_existing_data(filepath):
