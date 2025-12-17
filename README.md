@@ -179,11 +179,11 @@ encrypt_config = StandardEncryption(
 ```
 
 
-# 第三部分：PDF Question Bank Diff Tool (PDF 题库差异比对工具)
+# 第三部分：PDF 题库差异比对工具 (PDF Question Bank Diff Tool)[2025年12月17日更新]
 
 这是一个基于 Python 的轻量级工具，用于自动比对两个 PDF 格式的题库文件，并提取出它们之间的**差异题目**。
 
-该脚本最初是为了合并和校对“习概”（习近平新时代中国特色社会主义思想概论）课程的不同版本题库（如练习版与雨课堂版）而开发，适用于任何格式相似的单选/多选题库比对。
+该脚本是因为两个题库之间有些题目存在重复而开发，适用于任何格式相似的单选/多选题库比对。
 
 ## 功能特点
 
@@ -222,11 +222,11 @@ pip install pdfplumber
 在终端中运行 Python 脚本：
 
 ```bash
-python diff_questions.py
+python bidui.py
 
 ```
 
-*(假设脚本保存为 `diff_questions.py`)*
+*(假设脚本保存为 `bidui.py`)*
 
 ### 3. 查看结果
 
